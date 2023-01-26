@@ -1,5 +1,6 @@
 #THE FINE HANDLING ALGORITHM:
 
+
 #The Check happens when actions including
 #Delete member/ Borrow book/ Return book/ Reservat book are carried out
 #SELECT xx FROM Loan -- that exceeds the due date
