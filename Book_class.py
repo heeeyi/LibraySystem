@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 import pymysql
 import csv
 
+
 load_dotenv()
 
 PASSWORD = os.getenv('MY_SQL_PASSWORD')
