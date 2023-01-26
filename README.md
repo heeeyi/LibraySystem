@@ -1,2 +1,3 @@
 # bt2102Project
-bt2102 project
+
+An automated mini-library system that handles book and member addition and deletion, book reservation, fine payment and queries.
