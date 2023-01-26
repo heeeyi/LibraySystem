@@ -6,6 +6,7 @@ window = Tk()
 window.title("Membership Update Entry")
 window.geometry("600x500")
 
+
 #Create a top frame
 top_frame = Frame(window, width = 500, height = 50)
 top_frame.pack(side = TOP)

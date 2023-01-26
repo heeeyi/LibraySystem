@@ -6,6 +6,7 @@ window = Tk()
 window.title("Membership Deletion")
 window.geometry("600x500")
 
+
 #Create a top frame
 top_frame = Frame(window, width = 500, height = 50,
     bg = "grey", bd = 0)
